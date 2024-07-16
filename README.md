@@ -1,4 +1,7 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=pinnng29">
+
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+There!+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 
 <!---
 - 👋 Hi, I’m @pinnng29
